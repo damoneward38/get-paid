@@ -1,0 +1,1 @@
+ALTER TABLE `tracks` MODIFY COLUMN `audioKey` varchar(512) NOT NULL DEFAULT 'default-key';
